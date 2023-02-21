@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @orhankhanbayov
 - 👨‍🎓 I’m currently a software engineering student with Makers Academy, graduating in March 2023
-- 📚 The languages I have learned so far: Ruby, Javascript, Python and C.
+- 📚 The languages I have learned so far: Ruby, Javascript, Python and C
 - 📫 How to reach me: orhan.khanbayov@hotmail.co.uk
